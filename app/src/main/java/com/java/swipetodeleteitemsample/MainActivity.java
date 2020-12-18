@@ -35,4 +35,7 @@ public class MainActivity extends AppCompatActivity {
         MyAdapter adapter = new MyAdapter(this,itemList);
         recyclerView.setAdapter(adapter);
     }
+
+
+
 }
